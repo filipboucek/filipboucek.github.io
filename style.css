@@ -1,7 +1,8 @@
 body {
-background-color: black;
+  background-color: black;
 }
 
 p {
-color: white;
+  color: white;
+  font-family: monospace;
 }
