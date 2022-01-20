@@ -1,5 +1,8 @@
 body {
-  background-color: #737373;
+  background-color: #131413;
   color: white;
   font-family: monospace;
+}
+hr {
+  color: #303030;
 }
